@@ -1,7 +1,5 @@
 /*
 Michael Ha
-ICS 365-50
-Professor Carlson
 03/17/2022
 
 -- breadth first traversal was based on pseudocode from https://www.geeksforgeeks.org/level-order-tree-traversal/ --
